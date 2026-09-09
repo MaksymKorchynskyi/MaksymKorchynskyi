@@ -2,7 +2,7 @@
 
 [![Email](https://img.shields.io/badge/-Email-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:maksim260306@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/MaksymKorchynskyi)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/maksym-korchynskyi-4aa96434b)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksym-korchynskyi-4aa96434b)
 
 Python Developer with hands-on experience building backend applications and REST APIs using Django, DRF, and FastAPI. Experienced with PostgreSQL, Redis, Celery, Docker, CI/CD, and Generative AI integrations.
 
